@@ -12,6 +12,9 @@
 |정동훈|BE|
 
 ## 프로젝트 소개
+- 프로젝트 기간 : 10/28 ~ 11/03
+
+## 프로젝트 소개
 <img width="1000" alt="스크린샷 2022-11-03 10 38 22" src="https://user-images.githubusercontent.com/86904667/199633012-850e0a85-66ee-4700-97a6-483de35847d2.png">
 
 <img width="1000" alt="스크린샷 2022-11-03 10 41 12" src="https://user-images.githubusercontent.com/86904667/199633305-76412fd4-d766-4729-b652-eca04ca62ec1.png">
